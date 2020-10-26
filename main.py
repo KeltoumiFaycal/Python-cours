@@ -4,4 +4,8 @@ def say_hello(name):
 
 n = "Fayçal"
 say_hello(n)
+print("test")
+
+
+
 
